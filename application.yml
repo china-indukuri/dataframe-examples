@@ -1,5 +1,5 @@
 s3_conf:
-  s3_bucket: icreddy
+  s3_bucket: icreddy1
 
 sftp_conf:
     filetype: csv
